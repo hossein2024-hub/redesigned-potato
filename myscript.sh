@@ -2,4 +2,4 @@
 
 echo "Hello World!"
 
-echo "This is the change I make on Github.com"
+echo "This is the edit I make on my computer"
